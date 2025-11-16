@@ -82,7 +82,7 @@ export default function FacilitatorDashboard() {
       assigned: 0,
       inprogress: 0,
       followup: 0,
-      Closed: 0,
+      closed: 0,
       rejected: 0,
       unknown: 0,
     };
